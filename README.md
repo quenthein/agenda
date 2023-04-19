@@ -1,7 +1,7 @@
 # agenda app
 
 ## Description
-L'application a pour but de proposer la gestion d'un agenda de contact. Elle permettra de créer, modifier, supprimer des contacts.
+L'application a pour but de proposer la gestion d'un agenda de contacts. Elle permettra de créer, modifier, supprimer des contacts.
 Chaque contact aura un nom, un numéro de téléphone, une adresse mail ou site web et une adresse postale.
 
 ## Technologies utilisées
@@ -30,3 +30,6 @@ npm install
 ```
 npm run serve
 ```
+
+#### Diagramme de classe
+![](diagramme_de_classes.png)
